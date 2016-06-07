@@ -54,6 +54,7 @@ const styles = StyleSheet.create({
 
 AppRegistry.registerComponent('ReactNativeSample', () => ReactNativeSample);
 
+
 var MOCKED_MOVIES_DATA = [
   {title: '标题', year: '2015', posters: {thumbnail: 'http://i.imgur.com/UePbdph.jpg'}},
 ];
